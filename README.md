@@ -1,3 +1,7 @@
+![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/9.png)
+
+
+
 # Participants-Guide
 This is TechBench HackDay
 
