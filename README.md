@@ -1,5 +1,5 @@
-![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/9.png=100x20)
-![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/8.png=100x20)
+![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/9.png =1600×1200)
+![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/8.png =1600×1200)
 
 
 
