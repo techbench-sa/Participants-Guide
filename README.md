@@ -7,7 +7,10 @@ We can't wait to see you on the **HackDay** at 13 of March at **Dhahran Techno-V
 
 Follow this map 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2124.2201910142694!2d50.158633749923816!3d26.301161755360546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e6497e9662ab%3A0xb151675e3859a3db!2sDhahran+Techno+Valley+Company!5e0!3m2!1sen!2ssa!4v1552381230365" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+[link](https://goo.gl/maps/v2qhV6vSfam)
+
+Screenshot:
+![alt text](Participants-Guide/Screen Shot 2019-03-12 at 3.16.18 PM.png)
 
 ----
 
@@ -16,10 +19,13 @@ Follow this map
 
 The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where particapnts compete against each other to score the more points.
 
-The event is composoed of three differnt competitions which are 
-**1- Programming competition hackathon
+The event is composoed of three differnt competitions which are
+
+1- Programming competition hackathon
+
 2- Capture the Flag CTF
-3- Datathon **
+
+3- Datathon 
 
 
 ###  Schedule
@@ -78,14 +84,13 @@ worry about bringing food (unless you love very specific snacks).
 ----
 
 
-# Additional Resources
-
+## Additional Resources
 [CTF Resources](https://ctfs.github.io/resources/)
+
 [Programming Competetion Resources](https://github.com/lnishan/awesome-competitive-programming)
 
 
-# About This Guide
-
+## About This Guide
 Written by Mohannad Rokaini and Sultan Lubbad, TechBench
 
 Please email [info@techbench.team](mailto:info@techbench.team) with any
