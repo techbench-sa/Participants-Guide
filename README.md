@@ -95,8 +95,6 @@ worry about bringing food (unless you love very specific snacks).
 
 .
 .
-----
-.
 .
 
 **Please email [info@techbench.team](mailto:info@techbench.team) with any
