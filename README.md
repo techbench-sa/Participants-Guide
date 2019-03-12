@@ -9,18 +9,26 @@ Follow this map
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2124.2201910142694!2d50.158633749923816!3d26.301161755360546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e6497e9662ab%3A0xb151675e3859a3db!2sDhahran+Techno+Valley+Company!5e0!3m2!1sen!2ssa!4v1552381230365" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+----
 
-# At the Event
 
-The **HackDay** is a multiple competitions happening at the same time to 
+# At The Event
 
-##  Schedule
-##  =================
+The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where particapnts compete against each other to score the more points.
+
+The event is composoed of three differnt competitions which are 
+**1- Programming competition hackathon
+2- Capture the Flag CTF
+3- Datathon **
+
+
+###  Schedule
+
 
 This is our day 
 
 | Time          | Activity         | Location  |
-| ------------- |:----------------:| ---------:|
+| ------------- |:----------------:|:----------|
 | 3:30 - 4:20   |Late Registration |Lobby      |
 | 4:30 – 6:00   |Opening Ceremony  |Auditorium |
 | 6:00 – 6:15   |Prayer Break      |DTV Mousqe |
@@ -29,34 +37,7 @@ This is our day
 | 9:30 - 10:30  |Networking        |Lobby      |
 
 
-
-## Getting Settled
-
-When you first arrive at the Dhahran Techno-valelly company building, there will be a short
-check-in. You’ll receive a badge to denote yourself as a hacker, and important information for the day of the event.
-then we will move to the main Auditorium for the opening cermoney (more info will be provieded) and then start hacking.
-
-
-### Asking for Help
-
-There’ll be a point where you get stuck on something when working on
-your project, whether it be a technical roadblock, a decision you don’t
-have enough information to make, or a question about best practices. We
-will have a few mentors during the event who will be around to answer
-any technical questions, and there are also are probably other hackers
-who might be familiar with what you are working with. Just send a
-message to the *technical\_help* channel on Slack, and someone should
-get back to you!
-
-
-
-
-
-
-
-# HACKATHON 
-
-##  What to Bring?
+###  What to Bring?
 
 -   Computer
     -  with a full battery life
@@ -68,6 +49,52 @@ get back to you!
 -   Energy 
     -   Come with an open mind for learning and having fun
     
+
+### Getting Settled
+
+When you first arrive at the Dhahran Techno-valelly company building, there will be a short
+check-in. You’ll receive a badge to denote yourself as a hacker, and important information for the day of the event.
+then we will move to the main Auditorium for the opening ceremoney (more info will be provieded) and then start hacking.
+
+### Opening Ceremony
+
+Once you’ve had some time to get settled, we’ll officially start the
+event with the opening ceremony. Techbench will present to you an overview of who they are, and our sponsors Aramco and ICS department will give talk brifly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
+
+
+### Asking for Help
+
+If you got stuck at something or you need help, Please reach out to anyone wearing **TechBench** shirt.
+We are frindely and don't bite.
+
+
+### Food
+
+We’ll be providing all meals and snacks throughout the event, so don’t
+worry about bringing food (unless you love very specific snacks). 
+
+
+
+----
+
+
+# Additional Resources
+
+[CTF Resources](https://ctfs.github.io/resources/)
+[Programming Competetion Resources](https://github.com/lnishan/awesome-competitive-programming)
+
+
+# About This Guide
+
+Written by Mohannad Rokaini and Sultan Lubbad, TechBench
+
+Please email [info@techbench.team](mailto:info@techbench.team) with any
+comments or suggestions, or file an issue or pull request on this
+repository.
+
+
+
+
    
 
     
