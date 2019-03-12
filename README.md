@@ -68,7 +68,7 @@ then we will move to the main auditorium for the opening ceremoney (more info wi
 
 ### Opening Ceremony
 
-Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremony. Techbench will present  an overview of who they are, and our sponsors Aramco and ICS department will talk brifly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
+Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremony. Techbench will present  an overview of who they are, and our sponsors Aramco and ICS department will talk briefly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
 
 
 ### Asking for Help
