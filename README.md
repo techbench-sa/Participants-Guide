@@ -29,7 +29,7 @@ The event is composoed of three differnt competitions which are
 
 **2- Capture the Flag CTF**
 
-**3- Datathon **
+**3- Datathon**
 
 
 ###  Schedule
@@ -68,7 +68,7 @@ then we will move to the main auditorium for the opening ceremoney (more info wi
 
 ### Opening Ceremony
 
-Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremony. Techbench will present  an overview of who they are, and our sponsors Aramco and ICS department will talk briefly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
+Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremony. Techbench will present  an overview of who they are, and our sponsors Aramco and ICS department will talk briefly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 4 hours!
 
 
 ### Asking for Help
@@ -93,12 +93,9 @@ worry about bringing food (unless you love very specific snacks).
 [Programming Competetion Resources](https://github.com/lnishan/awesome-competitive-programming)
 
 
-## About This Guide
-Written by Mohannad Rokaini and Sultan Lubbad, TechBench
-
-Please email [info@techbench.team](mailto:info@techbench.team) with any
-comments or suggestions, or file an issue or pull request on this
-repository.
+## Please email [info@techbench.team](mailto:info@techbench.team) with any
+## comments or suggestions, or file an issue or pull request on this
+## repository.
 
 
 
