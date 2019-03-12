@@ -22,9 +22,9 @@ Screenshot:
 
 # At The Event
 
-The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where particapnts compete against each other to score more points in order to win.
+The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where participants compete against each other to score more points in order to win.
 
-The event is composoed of three differnt competitions which are
+The event is composed of three different competitions which are
 
 **1- Programming competition hackathon**
 
@@ -63,9 +63,9 @@ This is our day
 
 ### Getting Settled
 
-When you first arrive at the Dhahran Techno-valelly company building, there will be a short
+When you first arrive at the Dhahran Techno-valley company building, there will be a short
 check-in. You’ll receive a badge to denote yourself as a hacker, and important information for the day of the event.
-then we will move to the main auditorium for the opening ceremoney (more info will be provieded) and then we will start hacking.
+then we will move to the main auditorium for the opening ceremony (more info will be provided) and then we will start hacking.
 
 ### Opening Ceremony
 
