@@ -1,4 +1,5 @@
 ![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/9.png)
+![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/8.png)
 
 
 
@@ -92,6 +93,11 @@ worry about bringing food (unless you love very specific snacks).
 
 [Programming Competetion Resources](https://github.com/lnishan/awesome-competitive-programming)
 
+.
+.
+----
+.
+.
 
 **Please email [info@techbench.team](mailto:info@techbench.team) with any
 comments or suggestions, or file an issue or pull request on this
