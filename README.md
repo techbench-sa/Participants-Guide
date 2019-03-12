@@ -1,7 +1,7 @@
 # Participants-Guide
 This is TechBench HackDay
 
-We can't wait to see you on the **HackDay** at 13 of March at **Dhahran Techno-Valle.** We hope you make friends, learn, meme out, but most importantly, **have fun.**
+We can't wait to see you on the **HackDay** at 13 of March at **Dhahran Techno-Valley.** We hope you make friends, learn, meme out, but most importantly, **have fun.**
 
 ## Getting There
 
@@ -10,22 +10,22 @@ Follow this map
 [link](https://goo.gl/maps/v2qhV6vSfam)
 
 Screenshot:
-![alt text](Participants-Guide/Screen Shot 2019-03-12 at 3.16.18 PM.png)
+![alt text](https://github.com/techbench-sa/Participants-Guide/blob/master/Screen%20Shot%202019-03-12%20at%203.16.18%20PM.png)
 
 ----
 
 
 # At The Event
 
-The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where particapnts compete against each other to score the more points.
+The **HackDay** is a multi-competition marathon happening at the same time, **individual based competitions** where particapnts compete against each other to score more points in order to win.
 
 The event is composoed of three differnt competitions which are
 
-1- Programming competition hackathon
+**1- Programming competition hackathon**
 
-2- Capture the Flag CTF
+**2- Capture the Flag CTF**
 
-3- Datathon 
+**3- Datathon **
 
 
 ###  Schedule
@@ -60,18 +60,17 @@ This is our day
 
 When you first arrive at the Dhahran Techno-valelly company building, there will be a short
 check-in. You’ll receive a badge to denote yourself as a hacker, and important information for the day of the event.
-then we will move to the main Auditorium for the opening ceremoney (more info will be provieded) and then start hacking.
+then we will move to the main auditorium for the opening ceremoney (more info will be provieded) and then we will start hacking.
 
 ### Opening Ceremony
 
-Once you’ve had some time to get settled, we’ll officially start the
-event with the opening ceremony. Techbench will present to you an overview of who they are, and our sponsors Aramco and ICS department will give talk brifly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
+Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremony. Techbench will present  an overview of who they are, and our sponsors Aramco and ICS department will talk brifly about themselves. We’ll also go over the basic rules for the event, and provide an overview of the next 6 hours!
 
 
 ### Asking for Help
 
 If you got stuck at something or you need help, Please reach out to anyone wearing **TechBench** shirt.
-We are frindely and don't bite.
+We are friendly and we don't bite.
 
 
 ### Food
